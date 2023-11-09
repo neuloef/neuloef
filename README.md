@@ -1,6 +1,6 @@
 # README.md
 
-Hello, friend.  I'm Layla, an autistic, ???sexual (read: *queer),* transgender woman\*.  I love music, (free and) open source things, history, sociology, philosophy, psychology, and much, much more.  I've been an infrequent user of free software (and by extension, Linux) since sometime around `2007`, and a full-time user since late `2014`.
+Hello, friend.  I'm Layla, a neurodivergent, ???sexual (read: *queer),* transgender woman\*.  I love music, (free and) open source things, history, sociology, philosophy, psychology, language ... and much, much more.  I've been an infrequent user of free software (and by extension, Linux) since sometime around `2007`, and a full-time user since late `2014`.
 
 *\* Most of these are modifiable, fluid descriptors.  Sometimes they ring true, other times they are a bad way to describe me.  The order of these listed attributes do not show relevance or preference.*
 
